@@ -10,4 +10,4 @@ My interests include:
 
 You can reach me via the following:
 - Instagram: Joseph.sun2003
-- Linkedin: [Here](https://www.linkedin.com/in/joseph-sun-702656205/ "Linkedin Profile")
+- Linkedin: [Here](www.linkedin.com/in/js223 "Linkedin Profile")
