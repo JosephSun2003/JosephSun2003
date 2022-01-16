@@ -7,6 +7,7 @@ My interests include:
 - Cyrptography
 - Photography
 - Military Technology (mostly Land-based systems)
+- Public Transit (specifically trains)
 
 You can reach me via the following:
 - Instagram: Joseph.sun2003
