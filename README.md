@@ -3,7 +3,7 @@ Hi, I’m @JosephSun2003
   
 My interests include: 
 - Video editing (primarily in Davince Resolve 16.1)
-- Coding in Python 3, Java, and C#
+- Coding in Python 3, Java, C# and R
 - Cyrptography
 - Photography
 - Military Technology (mostly Land-based systems)
