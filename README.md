@@ -2,7 +2,7 @@ Hi, I’m @JosephSun2003
   I'm currently a student in UofT Scarborough studying for an Honours Bachelor of Science in Computer Science.
   
 My interests include: 
-- Video editing (primarily in Davince Resolve 16.1)
+- Video editing (primarily in Da Vinci Resolve 16.1)
 - Coding in Python 3, Java, C# and R
 - Cyrptography
 - Photography
